@@ -11,7 +11,7 @@
 > [!NOTE]
 > 下方视频演示了从环境配置、启动到核心功能（论文分类、语义搜索、图像对话）的完整使用流程。
 >
-> ![Demo Video Placeholder](assets/demo_video.mp4)
+> ![Demo Video Placeholder](https://github.com/user-attachments/assets/630b3466-1389-4b5e-910b-4e56c3d06b7d)
 
 ---
 
