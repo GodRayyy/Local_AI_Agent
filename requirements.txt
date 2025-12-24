@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+transformers>=4.40.0          # 模型加载与推理
+accelerate>=0.27.0            # 模型加速和分布式推理
+sentencepiece>=0.1.99         # 分词器依赖
+sentence-transformers>=2.5.0  # 用于文本嵌入（BGE-M3）
+chromadb>=0.4.0               # 向量存储和检索
+PyMuPDF>=1.23.0               # PDF 解析和文本提取
+Pillow>=10.0.0                # 图像加载和处理
+qwen-vl-utils>=0.0.1          # Qwen-VL 视觉处理工具
+numpy>=1.24.0                 # 数值计算
+tqdm>=4.65.0                  # 进度条显示
