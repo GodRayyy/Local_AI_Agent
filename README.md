@@ -40,10 +40,15 @@
 
 ### 2. 智能分类后的文件夹结构
 > ![Folder Structure](assets/folder_structure_before.png)
+>
 > *(展示自动分类整理前的 messy 目录结构，混乱不堪)*
+>
 > ![Folder Structure](assets/folder_structure_demo.png)
+>
 > *(展示自动分类整理的过程)*
+>
 > ![Folder Structure](assets/folder_structure_after.png)
+>
 > *(展示自动分类整理后的 Library 目录结构，清晰有序)*
 
 ### 3. 多模态图像对话
